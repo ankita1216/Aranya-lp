@@ -291,7 +291,7 @@ function StatsBar() {
     { value: '257', label: 'Curated Residences' },
     { value: '70%', label: 'Green Open Space' },
     { value: '16,000+', label: 'Sq Ft Clubhouse' },
-    { value: 'Leisure', label: 'Swimming Pool' },
+    { value: 'Swimming Pool', label: 'Aquatic retreat' },
     { value: '2', label: 'Iconic Towers' },
   ];
   return (
